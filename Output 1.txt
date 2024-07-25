@@ -1,0 +1,376 @@
+======================== Iteration: 1
+weight                 : 7
+prediction             : 140
+error                  : 1600
+error (round)          : 1600 
+
+weight_upward          : 7.1
+prediction_upward      : 142.0
+error_upward           : 1444.0
+error_upward (round)   : 1444.0
+
+weight_downwards       : 6.9
+prediction_downwards   : 138.0
+error_downwards        : 1764.0
+error_downwards (round): 1764.0
+
+new weight using weight_upward: 7.1
+
+======================== Iteration: 2
+weight                 : 7.1
+prediction             : 142.0
+error                  : 1444.0
+error (round)          : 1444.0 
+
+weight_upward          : 7.199999999999999
+prediction_upward      : 144.0
+error_upward           : 1296.0
+error_upward (round)   : 1296.0
+
+weight_downwards       : 7.0
+prediction_downwards   : 140.0
+error_downwards        : 1600.0
+error_downwards (round): 1600.0
+
+new weight using weight_upward: 7.199999999999999
+
+======================== Iteration: 3
+weight                 : 7.199999999999999
+prediction             : 144.0
+error                  : 1296.0
+error (round)          : 1296.0 
+
+weight_upward          : 7.299999999999999
+prediction_upward      : 145.99999999999997
+error_upward           : 1156.0000000000018
+error_upward (round)   : 1156.0
+
+weight_downwards       : 7.1
+prediction_downwards   : 142.0
+error_downwards        : 1444.0
+error_downwards (round): 1444.0
+
+new weight using weight_upward: 7.299999999999999
+
+======================== Iteration: 4
+weight                 : 7.299999999999999
+prediction             : 145.99999999999997
+error                  : 1156.0000000000018
+error (round)          : 1156.0 
+
+weight_upward          : 7.399999999999999
+prediction_upward      : 147.99999999999997
+error_upward           : 1024.0000000000018
+error_upward (round)   : 1024.0
+
+weight_downwards       : 7.199999999999999
+prediction_downwards   : 144.0
+error_downwards        : 1296.0
+error_downwards (round): 1296.0
+
+new weight using weight_upward: 7.399999999999999
+
+======================== Iteration: 5
+weight                 : 7.399999999999999
+prediction             : 147.99999999999997
+error                  : 1024.0000000000018
+error (round)          : 1024.0 
+
+weight_upward          : 7.499999999999998
+prediction_upward      : 149.99999999999997
+error_upward           : 900.0000000000017
+error_upward (round)   : 900.0
+
+weight_downwards       : 7.299999999999999
+prediction_downwards   : 145.99999999999997
+error_downwards        : 1156.0000000000018
+error_downwards (round): 1156.0
+
+new weight using weight_upward: 7.499999999999998
+
+======================== Iteration: 6
+weight                 : 7.499999999999998
+prediction             : 149.99999999999997
+error                  : 900.0000000000017
+error (round)          : 900.0 
+
+weight_upward          : 7.599999999999998
+prediction_upward      : 151.99999999999994
+error_upward           : 784.0000000000032
+error_upward (round)   : 784.0
+
+weight_downwards       : 7.399999999999999
+prediction_downwards   : 147.99999999999997
+error_downwards        : 1024.0000000000018
+error_downwards (round): 1024.0
+
+new weight using weight_upward: 7.599999999999998
+
+======================== Iteration: 7
+weight                 : 7.599999999999998
+prediction             : 151.99999999999994
+error                  : 784.0000000000032
+error (round)          : 784.0 
+
+weight_upward          : 7.6999999999999975
+prediction_upward      : 153.99999999999994
+error_upward           : 676.000000000003
+error_upward (round)   : 676.0
+
+weight_downwards       : 7.499999999999998
+prediction_downwards   : 149.99999999999997
+error_downwards        : 900.0000000000017
+error_downwards (round): 900.0
+
+new weight using weight_upward: 7.6999999999999975
+
+======================== Iteration: 8
+weight                 : 7.6999999999999975
+prediction             : 153.99999999999994
+error                  : 676.000000000003
+error (round)          : 676.0 
+
+weight_upward          : 7.799999999999997
+prediction_upward      : 155.99999999999994
+error_upward           : 576.0000000000027
+error_upward (round)   : 576.0
+
+weight_downwards       : 7.599999999999998
+prediction_downwards   : 151.99999999999994
+error_downwards        : 784.0000000000032
+error_downwards (round): 784.0
+
+new weight using weight_upward: 7.799999999999997
+
+======================== Iteration: 9
+weight                 : 7.799999999999997
+prediction             : 155.99999999999994
+error                  : 576.0000000000027
+error (round)          : 576.0 
+
+weight_upward          : 7.899999999999997
+prediction_upward      : 157.99999999999994
+error_upward           : 484.0000000000025
+error_upward (round)   : 484.0
+
+weight_downwards       : 7.6999999999999975
+prediction_downwards   : 153.99999999999994
+error_downwards        : 676.000000000003
+error_downwards (round): 676.0
+
+new weight using weight_upward: 7.899999999999997
+
+======================== Iteration: 10
+weight                 : 7.899999999999997
+prediction             : 157.99999999999994
+error                  : 484.0000000000025
+error (round)          : 484.0 
+
+weight_upward          : 7.9999999999999964
+prediction_upward      : 159.99999999999994
+error_upward           : 400.0000000000023
+error_upward (round)   : 400.0
+
+weight_downwards       : 7.799999999999997
+prediction_downwards   : 155.99999999999994
+error_downwards        : 576.0000000000027
+error_downwards (round): 576.0
+
+new weight using weight_upward: 7.9999999999999964
+
+======================== Iteration: 11
+weight                 : 7.9999999999999964
+prediction             : 159.99999999999994
+error                  : 400.0000000000023
+error (round)          : 400.0 
+
+weight_upward          : 8.099999999999996
+prediction_upward      : 161.99999999999991
+error_upward           : 324.00000000000307
+error_upward (round)   : 324.0
+
+weight_downwards       : 7.899999999999997
+prediction_downwards   : 157.99999999999994
+error_downwards        : 484.0000000000025
+error_downwards (round): 484.0
+
+new weight using weight_upward: 8.099999999999996
+
+======================== Iteration: 12
+weight                 : 8.099999999999996
+prediction             : 161.99999999999991
+error                  : 324.00000000000307
+error (round)          : 324.0 
+
+weight_upward          : 8.199999999999996
+prediction_upward      : 163.99999999999991
+error_upward           : 256.00000000000273
+error_upward (round)   : 256.0
+
+weight_downwards       : 7.9999999999999964
+prediction_downwards   : 159.99999999999994
+error_downwards        : 400.0000000000023
+error_downwards (round): 400.0
+
+new weight using weight_upward: 8.199999999999996
+
+======================== Iteration: 13
+weight                 : 8.199999999999996
+prediction             : 163.99999999999991
+error                  : 256.00000000000273
+error (round)          : 256.0 
+
+weight_upward          : 8.299999999999995
+prediction_upward      : 165.99999999999991
+error_upward           : 196.0000000000024
+error_upward (round)   : 196.0
+
+weight_downwards       : 8.099999999999996
+prediction_downwards   : 161.99999999999991
+error_downwards        : 324.00000000000307
+error_downwards (round): 324.0
+
+new weight using weight_upward: 8.299999999999995
+
+======================== Iteration: 14
+weight                 : 8.299999999999995
+prediction             : 165.99999999999991
+error                  : 196.0000000000024
+error (round)          : 196.0 
+
+weight_upward          : 8.399999999999995
+prediction_upward      : 167.9999999999999
+error_upward           : 144.00000000000273
+error_upward (round)   : 144.0
+
+weight_downwards       : 8.199999999999996
+prediction_downwards   : 163.99999999999991
+error_downwards        : 256.00000000000273
+error_downwards (round): 256.0
+
+new weight using weight_upward: 8.399999999999995
+
+======================== Iteration: 15
+weight                 : 8.399999999999995
+prediction             : 167.9999999999999
+error                  : 144.00000000000273
+error (round)          : 144.0 
+
+weight_upward          : 8.499999999999995
+prediction_upward      : 169.9999999999999
+error_upward           : 100.00000000000227
+error_upward (round)   : 100.0
+
+weight_downwards       : 8.299999999999995
+prediction_downwards   : 165.99999999999991
+error_downwards        : 196.0000000000024
+error_downwards (round): 196.0
+
+new weight using weight_upward: 8.499999999999995
+
+======================== Iteration: 16
+weight                 : 8.499999999999995
+prediction             : 169.9999999999999
+error                  : 100.00000000000227
+error (round)          : 100.0 
+
+weight_upward          : 8.599999999999994
+prediction_upward      : 171.9999999999999
+error_upward           : 64.00000000000182
+error_upward (round)   : 64.0
+
+weight_downwards       : 8.399999999999995
+prediction_downwards   : 167.9999999999999
+error_downwards        : 144.00000000000273
+error_downwards (round): 144.0
+
+new weight using weight_upward: 8.599999999999994
+
+======================== Iteration: 17
+weight                 : 8.599999999999994
+prediction             : 171.9999999999999
+error                  : 64.00000000000182
+error (round)          : 64.0 
+
+weight_upward          : 8.699999999999994
+prediction_upward      : 173.9999999999999
+error_upward           : 36.000000000001364
+error_upward (round)   : 36.0
+
+weight_downwards       : 8.499999999999995
+prediction_downwards   : 169.9999999999999
+error_downwards        : 100.00000000000227
+error_downwards (round): 100.0
+
+new weight using weight_upward: 8.699999999999994
+
+======================== Iteration: 18
+weight                 : 8.699999999999994
+prediction             : 173.9999999999999
+error                  : 36.000000000001364
+error (round)          : 36.0 
+
+weight_upward          : 8.799999999999994
+prediction_upward      : 175.9999999999999
+error_upward           : 16.00000000000091
+error_upward (round)   : 16.0
+
+weight_downwards       : 8.599999999999994
+prediction_downwards   : 171.9999999999999
+error_downwards        : 64.00000000000182
+error_downwards (round): 64.0
+
+new weight using weight_upward: 8.799999999999994
+
+======================== Iteration: 19
+weight                 : 8.799999999999994
+prediction             : 175.9999999999999
+error                  : 16.00000000000091
+error (round)          : 16.0 
+
+weight_upward          : 8.899999999999993
+prediction_upward      : 177.99999999999986
+error_upward           : 4.000000000000568
+error_upward (round)   : 4.0
+
+weight_downwards       : 8.699999999999994
+prediction_downwards   : 173.9999999999999
+error_downwards        : 36.000000000001364
+error_downwards (round): 36.0
+
+new weight using weight_upward: 8.899999999999993
+
+======================== Iteration: 20
+weight                 : 8.899999999999993
+prediction             : 177.99999999999986
+error                  : 4.000000000000568
+error (round)          : 4.0 
+
+weight_upward          : 8.999999999999993
+prediction_upward      : 179.99999999999986
+error_upward           : 2.0194839173657902e-26
+error_upward (round)   : 0.0
+
+weight_downwards       : 8.799999999999994
+prediction_downwards   : 175.9999999999999
+error_downwards        : 16.00000000000091
+error_downwards (round): 16.0
+
+new weight using weight_upward: 8.999999999999993
+
+======================== Iteration: 21
+weight                 : 8.999999999999993
+prediction             : 179.99999999999986
+error                  : 2.0194839173657902e-26
+error (round)          : 0.0      ===> Yeayyyy the error is zero !!!!
+
+weight_upward          : 9.099999999999993
+prediction_upward      : 181.99999999999986
+error_upward           : 3.9999999999994316
+error_upward (round)   : 4.0
+
+weight_downwards       : 8.899999999999993
+prediction_downwards   : 177.99999999999986
+error_downwards        : 4.000000000000568
+error_downwards (round): 4.0
+
